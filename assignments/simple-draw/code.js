@@ -35,7 +35,7 @@
  *
  */
 
-drawLine(0, 15, width, height/1.7, 'purple')
+drawLine(-15, 15, width, height/1.7, 'purple')
 
 
 
