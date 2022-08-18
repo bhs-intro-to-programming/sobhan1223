@@ -37,14 +37,6 @@
 
 drawLine(0, 350, width, height/1.7, 'purple')
 
-drawCircle(width/0, height/6, 10, 'blue');
 
-drawFilledRect(225, 230, 60, 40, 'brown');
 
-drawFilledCircle(width - 350, height - 525, 20, 'red');
 
-drawFilledRect(5, height - 20, 45, 15, 'purple');
- 
- drawFilledCircle(width - 150, height - 525, 20, 'red')
-
-drawFilledTriangle(width - 50, height - 59, 30, 'red')
